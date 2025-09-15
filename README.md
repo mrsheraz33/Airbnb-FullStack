@@ -7,16 +7,38 @@ Welcome to House Rent System, a modern, responsive, and fully functional web app
 ## 🖼 Preview
 
 ### 🏡 Homepage
-![Homepage](images/signup.jpg)
+![Homepage](images/tranding.JPG)
 
-### 📜 Listings Section
+### 🏡 Homepage
+![Homepage](images/farmhouse.JPG)
+
+### 🏡 Booked House
+![Homepage](images/renthouse.JPG)
+
+### 📜 My Listings 
+![Listings](images/mylisting.JPG)
+
+### 🔎 Search House 
+![Listings](images/searching.JPG)
+
+### ⭐ Rating
+![Listings](images/rating.JPG)
+
+### ➕ Add Listing
+![Listings](images/listing.JPG)
+
+### 📝 Update Listing
+![Listings](images/update.JPG)
+
+### 👥 Signup Page
+![Listings](images/signup.JPG)
+
+### 🔑 Login Page
 ![Listings](images/login.JPG)
 
-### 📍 Contact / Booking Section
-![Contact](images/contact.png)
+### 🏨 Booking Now
+![Listings](images/booknow.JPG)
 
-### 🔑 Admin Dashboard
-![Admin](images/admin-dashboard.png)
 
 ---
 
