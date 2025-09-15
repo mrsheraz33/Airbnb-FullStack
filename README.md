@@ -7,10 +7,10 @@ Welcome to House Rent System, a modern, responsive, and fully functional web app
 ## 🖼 Preview
 
 ### 🏡 Homepage
-![Homepage](images/signup.png)
+![Homepage](images/signup.jpg)
 
 ### 📜 Listings Section
-![Listings](images/listings.png)
+![Listings](images/login.JPG)
 
 ### 📍 Contact / Booking Section
 ![Contact](images/contact.png)
